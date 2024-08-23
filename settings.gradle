@@ -4,6 +4,7 @@ rootProject.name = 'devlog'
  * [APPLICATION] *
  * ============= */
 include('modules_application')
+include('modules_application:application_blog')
 
 /* ====== *
  * [CORE] *
